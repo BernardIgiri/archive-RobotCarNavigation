@@ -1,0 +1,2962 @@
+ResetContinue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+
+remote:S - 0
+ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+
+remote:G - 4
+ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+
+remote:G - 16
+ResetRouting to new path. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+Continue driving.
+--------
+Heading NORTH
+--------
+From 4 to 16
+Travel 3 units to node 8 and turn left.
+Travel 2 units to node 7 and go straight.
+Travel 3 units to node 6 and turn right.
+Travel 4 units to node 10 and turn right.
+Travel 3 units to node 11 and go straight.
+Travel 2 units to node 12 and turn left.
+Travel 3 units to node 16 and stop.
+Done.
+
+Subtract Radius
+State driving. DW: stop FW: straight. Dist: 291 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 290 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 289 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 288 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 287 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 286 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 285 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 284 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 283 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 282 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 281 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 280 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 279 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 278 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 277 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 276 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 275 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 274 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 273 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 272 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 271 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 270 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 269 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 268 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 267 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 266 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 265 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 264 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 263 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 262 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 261 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 260 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 259 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 258 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 257 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 256 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 255 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 254 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 253 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 252 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 251 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 250 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 249 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 248 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 247 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 246 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 245 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 244 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 243 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 242 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 241 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 240 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 239 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 238 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 237 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 236 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 235 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 234 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 233 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 232 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 231 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 230 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 229 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 228 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 227 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 226 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 225 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 224 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 223 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 222 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 221 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 220 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 219 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 218 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 217 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 216 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 215 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 214 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 213 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 212 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 211 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 210 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 209 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 208 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 207 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 206 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 205 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 204 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 203 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 202 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 201 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 200 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 199 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 198 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 197 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 196 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 195 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 194 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 193 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 192 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 191 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 190 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 189 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 188 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 187 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 186 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 185 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 184 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 183 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 182 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 181 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 180 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 179 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 178 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 177 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 176 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 175 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 174 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 173 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 172 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 171 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 170 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 169 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 168 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 167 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 166 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 165 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 164 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 163 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 162 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 161 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 160 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 159 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 158 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 157 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 156 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 155 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 154 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 153 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 152 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 151 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 150 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 149 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 148 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 147 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 146 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 145 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 144 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 143 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 142 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 140 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 139 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 138 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 137 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 136 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 135 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 134 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 133 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 132 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 131 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 130 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 129 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 128 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 127 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 126 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 125 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 124 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 123 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 122 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 121 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 120 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 119 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 118 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 117 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 116 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 115 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 114 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 113 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 112 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 111 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 110 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 109 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 108 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 107 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 106 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 105 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 104 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 103 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 102 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 101 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 100 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 99 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 98 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 97 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 96 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 95 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 94 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 93 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 92 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 91 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 90 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 89 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 88 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 87 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 86 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 85 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 84 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 83 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 82 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 81 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 80 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 79 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 78 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 77 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 76 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 75 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 74 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 73 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 72 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 71 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 70 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 69 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 68 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 67 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 66 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 65 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 64 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 63 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 62 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 61 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 60 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 59 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 58 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 57 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 56 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 55 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 54 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 52 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 51 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 50 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 49 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 48 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 47 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 46 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 45 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 44 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 43 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 42 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 41 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 40 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 39 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 38 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 37 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 36 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 35 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 34 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 33 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 32 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 31 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 30 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 29 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 28 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 27 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 26 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 25 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 24 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 23 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 22 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 21 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 20 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 19 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 18 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 17 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 16 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 15 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 14 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 13 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 12 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 11 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 10 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 9 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 8 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 7 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 6 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 5 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 4 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 3 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 2 Elapsed: 1 Cursor: 6
+Continue driving.State driving. DW: go FW: straight. Dist: 1 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 210 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 209 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 208 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 207 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 206 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 205 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 204 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 203 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 202 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 201 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 200 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 199 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 198 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 197 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 196 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 195 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 194 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 193 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 192 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 191 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 190 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 189 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 188 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 187 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 186 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 185 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 184 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 183 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 182 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 181 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 180 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 179 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 178 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 177 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 176 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 175 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 174 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 173 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 172 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 171 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 170 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 169 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 168 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 167 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 166 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 165 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 164 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 163 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 162 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 161 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 160 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 159 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 158 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 157 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 156 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 155 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 154 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 153 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 152 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 151 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 150 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 149 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 148 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 147 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 146 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 145 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 144 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 143 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 142 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 141 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 140 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 139 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 138 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 137 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 136 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 135 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 134 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 133 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 132 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 131 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 130 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 129 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 128 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 127 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 126 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 125 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 124 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 123 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 122 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 121 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 120 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 119 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 118 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 117 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 116 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 115 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 114 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 113 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 112 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 111 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 110 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 109 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 108 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 107 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 106 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 105 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 104 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 103 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 102 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 101 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 100 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 99 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 98 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 97 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 96 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 95 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 94 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 93 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 92 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 91 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 90 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 89 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 88 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 87 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 86 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 85 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 84 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 83 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 82 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 81 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 80 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 79 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 78 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 77 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 76 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 75 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 74 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 73 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 72 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 71 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 70 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 69 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 68 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 67 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 66 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 65 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 64 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 63 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 62 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 61 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 60 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 59 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 58 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 57 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 56 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 55 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 54 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State waiting for obstical. DW: stop FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 53 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 52 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 51 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 50 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 49 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 48 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 47 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 46 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 45 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 44 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 43 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 42 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 41 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 40 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 39 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 38 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 37 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 36 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 35 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 34 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 33 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 32 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 31 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 30 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 29 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 28 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 27 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 26 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 25 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 24 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 23 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 22 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 21 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 20 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 19 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 18 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 17 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 16 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 15 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 14 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 13 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 12 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 11 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 10 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 9 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 8 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 7 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 6 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 5 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 4 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 3 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 2 Elapsed: 1 Cursor: 6
+Continue driving.State steering. DW: go FW: left. Dist: 1 Elapsed: 1 Cursor: 6
+Continue driving.
+Subtract Radius
+State driving. DW: go FW: straight. Dist: 193 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 192 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 191 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 190 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 189 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 188 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 187 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 186 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 185 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 184 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 183 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 182 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 181 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 180 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 179 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 178 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 177 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 176 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 175 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 174 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 173 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 172 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 171 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 170 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 169 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 168 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 167 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 166 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 165 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 164 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 163 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 162 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 161 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 160 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 159 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 158 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 157 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 156 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 155 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 154 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 153 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 152 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 151 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 150 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 149 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 148 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 147 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 146 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 145 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 144 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 143 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 142 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 141 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 140 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 139 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 138 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 137 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 136 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 135 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 134 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 133 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 132 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 131 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 130 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 129 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 128 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 127 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 126 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 125 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 124 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 123 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 122 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 121 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 120 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 119 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 118 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 117 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 116 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 115 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 114 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 113 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 112 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 111 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 110 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 109 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 108 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 107 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 106 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 105 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 104 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 103 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 102 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 101 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 100 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 99 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 98 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 97 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 96 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 95 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 94 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 93 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 92 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 91 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 90 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 89 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 88 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 87 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 86 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 85 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 84 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 83 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 82 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 81 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 80 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 79 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 78 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 77 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 76 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 75 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 74 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 73 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 72 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 71 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 70 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 69 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 68 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 67 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 66 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 65 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 64 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 63 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 62 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 61 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 60 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 59 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 58 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 57 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 56 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 55 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 54 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 53 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 52 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 51 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 50 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 49 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 48 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 47 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 46 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 45 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 44 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 43 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 42 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 41 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 40 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 39 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 38 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 37 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 36 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 35 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 34 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 33 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 32 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 31 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 30 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 29 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 28 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 27 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 26 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 25 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 24 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 23 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 22 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 21 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 20 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 19 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 18 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 17 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 16 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 15 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 14 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 13 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 12 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 11 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 10 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 9 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 8 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 7 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 6 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 5 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 4 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 3 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 2 Elapsed: 1 Cursor: 5
+Continue driving.State driving. DW: go FW: straight. Dist: 1 Elapsed: 1 Cursor: 5
+Continue driving.
+Subtract Radius
+State driving. DW: go FW: straight. Dist: 291 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 290 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 289 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 288 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 287 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 286 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 285 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 284 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 283 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 282 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 281 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 280 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 279 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 278 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 277 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 276 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 275 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 274 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 273 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 272 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 271 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 270 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 269 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 268 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 267 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 266 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 265 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 264 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 263 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 262 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 261 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 260 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 259 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 258 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 257 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 256 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 255 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 254 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 253 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 252 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 251 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 250 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 249 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 248 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 247 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 246 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 245 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 244 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 243 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 242 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 241 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 240 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 239 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 238 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 237 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 236 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 235 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 234 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 233 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 232 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 231 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 230 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 229 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 228 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 227 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 226 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 225 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 224 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 223 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 222 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 221 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 220 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 219 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 218 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 217 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 216 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 215 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 214 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 213 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 212 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 211 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 210 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 209 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 208 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 207 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 206 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 205 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 204 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 203 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 202 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 201 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 200 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 199 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 198 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 197 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 196 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 195 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 194 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 193 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 192 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 191 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 190 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 189 Elapsed: 1 Cursor: 4
+Continue driving.State driving. DW: go FW: straight. Dist: 188 Elapsed: 1 Cursor: 4
+
+remote:F - 0
+State driving. DW: go FW: straight. Dist: 187 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 186 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 185 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 184 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 183 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 182 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 181 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 180 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 179 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 178 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 177 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 176 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 175 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 174 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 173 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 172 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 171 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 170 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 169 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 168 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 167 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 166 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 165 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 164 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 163 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 162 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 161 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 160 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 159 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 158 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 157 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 156 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 155 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 154 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 153 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 152 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 151 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 150 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 149 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 148 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 147 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 146 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 145 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 144 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 143 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 142 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 141 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 140 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 139 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 138 Elapsed: 1 Cursor: 4
+
+remote:S - 0
+State driving. DW: go FW: straight. Dist: 137 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 136 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 135 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 134 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 133 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 132 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 131 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 130 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 129 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 128 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 127 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 126 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 125 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 124 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 123 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 122 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 121 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 120 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 119 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 118 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 117 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 116 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 115 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 114 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 113 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 112 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 111 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 110 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 109 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 108 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 107 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 106 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 105 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 104 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 103 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 102 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 101 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 100 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 99 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 98 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 97 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 96 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 95 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 94 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 93 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 92 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 91 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 90 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 89 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 88 Elapsed: 1 Cursor: 4
+
+remote:Q - 0
+State driving. DW: go FW: straight. Dist: 87 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 86 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 85 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 84 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 83 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 82 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 81 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 80 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 79 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 78 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 77 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 76 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 75 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 74 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 73 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 72 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 71 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 70 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 69 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 68 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 67 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 66 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 65 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 64 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 63 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 62 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 61 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 60 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 59 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 58 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 57 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 56 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 55 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 54 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 53 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 52 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 51 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 50 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 49 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 48 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 47 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 46 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 45 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 44 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 43 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 42 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 41 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 40 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 39 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 38 Elapsed: 1 Cursor: 4
+
+remote:Z - 0
+State driving. DW: go FW: straight. Dist: 37 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 36 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 35 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 34 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 33 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 32 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 31 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 30 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 29 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 28 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 27 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 26 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 25 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 24 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 23 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 22 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 21 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 20 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 19 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 18 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 17 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 16 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 15 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 14 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 13 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 12 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 11 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 10 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 9 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 8 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 7 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 6 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 5 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 4 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 3 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 2 Elapsed: 1 Cursor: 4
+State driving. DW: go FW: straight. Dist: 1 Elapsed: 1 Cursor: 4
+Listening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+ResetListening to remote. DW: reverse FW: left. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+
+remote:C - 0
+ResetListening to remote. DW: reverse FW: right. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.ResetListening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+
+remote:G - 10
+ResetRouting to new path. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.State waiting for obstical. DW: stop FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.Routing to new path. DW: go FW: straight. Dist: -1 Elapsed: 1 Cursor: 4
+Continue driving.
+--------
+Heading WEST
+--------
+From 6 to 10
+Travel 4 units to node 10 and stop.
+Done.
+
+--------
+Heading NORTH
+--------
+State reversing. DW: stop FW: straight. Dist: 150 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 149 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 148 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 147 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 146 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 145 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 144 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 143 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 142 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 141 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 140 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 139 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 138 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 137 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 136 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 135 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 134 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 133 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 132 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 131 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 130 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 129 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 128 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 127 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 126 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 125 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 124 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 123 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 122 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 121 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 120 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 119 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 118 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 117 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 116 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 115 Elapsed: 1 Cursor: 1
+Continue driving.State reversing. DW: reverse FW: straight. Dist: 114 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 113 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 112 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 111 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 110 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 109 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 108 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 107 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 106 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 105 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 104 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 103 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 102 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 101 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 100 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 99 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 98 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 97 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 96 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 95 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 94 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 93 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 92 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 91 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 90 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 89 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 88 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 87 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 86 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 85 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 84 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 83 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 82 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 81 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 80 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 79 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 78 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 77 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 76 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 75 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 74 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 73 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 72 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 71 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 70 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 69 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 68 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 67 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 66 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 65 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 64 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 62 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 61 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 60 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 59 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 58 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 57 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 56 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 55 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 54 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 53 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 52 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 51 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 50 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 49 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 48 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 47 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 46 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 45 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 44 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 43 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 42 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 41 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 40 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 39 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 38 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 37 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 36 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 35 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 34 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 33 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 32 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 31 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 30 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 29 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 28 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 27 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 26 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 25 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 24 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 23 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 22 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 21 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 20 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 19 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 18 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 17 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 16 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 15 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 14 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 13 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 12 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 11 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 10 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 9 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 8 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 7 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 6 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 5 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 4 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 3 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 2 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State reversing. DW: reverse FW: straight. Dist: 1 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 210 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 209 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 208 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 207 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 206 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 205 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 204 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 203 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 202 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 201 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 200 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 199 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 198 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 197 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 196 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 195 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 194 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 193 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 192 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 191 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 190 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 189 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 188 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 187 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 186 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 185 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 184 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 183 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 182 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 181 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 180 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 179 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 178 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 177 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 176 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 175 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 174 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 173 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 172 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 171 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 170 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 169 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 168 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 167 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 166 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 165 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 164 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 163 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 162 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 161 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 160 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 159 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 158 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 157 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 156 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 155 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 154 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 153 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 152 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 151 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 150 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 149 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 148 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 147 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 146 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 145 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 144 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 143 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 142 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 141 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 140 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 139 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 138 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 137 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 136 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 135 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 134 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 133 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 132 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 131 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 130 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 129 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 128 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 127 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 126 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 125 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 124 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 123 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 122 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 121 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 120 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 119 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 118 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 117 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 116 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 115 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 114 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 113 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 112 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 111 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 110 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 109 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 108 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 107 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 106 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 105 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 104 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 103 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 102 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 101 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 100 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 99 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 98 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 97 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 96 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 95 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 94 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 93 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 92 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 91 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 90 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 89 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 88 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 87 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 86 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 85 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 84 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 83 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 82 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 81 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 80 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 79 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 78 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 77 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 76 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 75 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 74 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 73 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 72 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 71 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 70 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 69 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 68 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 67 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 66 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 65 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 64 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State waiting for obstical. DW: stop FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 63 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 62 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 61 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 60 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 59 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 58 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 57 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 56 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 55 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 54 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 53 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 52 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 51 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 50 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 49 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 48 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 47 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 46 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 45 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 44 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 43 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 42 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 41 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 40 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 39 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 38 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 37 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 36 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 35 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 34 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 33 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 32 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 31 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 30 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 29 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 28 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 27 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 26 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 25 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 24 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 23 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 22 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 21 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 20 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 19 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 18 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 17 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 16 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 15 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 14 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 13 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 12 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 11 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 10 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 9 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 8 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 7 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 6 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 5 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 4 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 3 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 2 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State steering. DW: go FW: right. Dist: 1 Elapsed: 1 Cursor: 1
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 196 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 195 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 194 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 193 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 192 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 191 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 190 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 189 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 188 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 187 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 186 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 185 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 184 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 183 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 182 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 181 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 180 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 179 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 178 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 177 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 176 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 175 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 174 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 173 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 172 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 171 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 170 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 169 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 168 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 167 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 166 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 165 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 164 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 163 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 162 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 161 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 160 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 159 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 158 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 157 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 156 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 155 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 154 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 153 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 152 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 151 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 150 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 149 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 148 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 147 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 146 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 145 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 144 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 143 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 142 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 141 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 140 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 139 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 138 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 137 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 136 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 135 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 134 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 133 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 132 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 131 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 130 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 129 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 128 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 127 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 126 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 125 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 124 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 123 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 122 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 121 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 120 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 119 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 118 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 117 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 116 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 115 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 114 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 113 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 112 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 111 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 110 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 109 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 108 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 107 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 106 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 105 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 104 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 103 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 102 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 101 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 100 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 99 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 98 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 97 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 96 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 95 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 94 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 93 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 92 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 91 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 90 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 89 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 88 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 87 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 86 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 85 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 84 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 83 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 82 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 81 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 80 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 79 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 78 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 77 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 76 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 75 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 74 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 73 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 72 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 71 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 70 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 69 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 68 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 67 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 66 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 65 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 64 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 63 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 62 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 61 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 60 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 59 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 58 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 57 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 56 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 55 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 54 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 53 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 52 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 51 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 50 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 49 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 48 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 47 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 46 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 45 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 44 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 43 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 42 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 41 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 40 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 39 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 38 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 37 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 36 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 35 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 34 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 33 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 32 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 31 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 30 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 29 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 28 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 27 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 26 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 25 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 24 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 23 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 22 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 21 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 20 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 19 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 18 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 17 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 16 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 15 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 14 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 13 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 12 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 11 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 10 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 9 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 8 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 7 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 6 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 5 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 4 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 3 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 2 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+State driving. DW: go FW: straight. Dist: 1 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+Listening to remote. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
+
+remote:T - 0
+ResetState done. DW: stop FW: straight. Dist: 0 Elapsed: 1 Cursor: 0
